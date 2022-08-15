@@ -1,0 +1,13 @@
+name = input('Name: ')
+age = int(input('Age: '))
+fav_color = input('Favorite Color: ')
+fav_movie = input('Favorite Movie: ')
+mobile = input('Mobile Number: ')
+motto = input('Motto in life: ')
+
+print(name)
+print(age)
+print(fav_color)
+print(fav_movie)
+print(mobile)
+print(motto)
